@@ -1,4 +1,20 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "乌鲁木齐市高级中学"
+    "OrganizationName": "乌鲁木齐市高级中学",
+    "ClassPlanSource": {
+        "Value": "https://ghp.ci/https://raw.githubusercontent.com/kangyx34/urmuqi-GJZX-ClassIsland-resources/refs/heads/main/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://ghp.ci/https://urumqi-gjzx-classisland-control.oss-cn-beijing.aliyuncs.com/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://ghp.ci/https://raw.githubusercontent.com/kangyx34/urmuqi-GJZX-ClassIsland-resources/refs/heads/main/subjects.json",
+        "Version": 1
+        },
+	"PolicySource": {
+        "Value": "https://ghp.ci/https://raw.githubusercontent.com/kangyx34/urmuqi-GJZX-ClassIsland-resources/refs/heads/main/policy.json",
+        "Version": 1
+        }
 }
